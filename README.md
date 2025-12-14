@@ -18,7 +18,7 @@ Skills:
 
 Overview of my Projects:
 1. Automatic Watering System 
-   As my A-Level computer science project, I created a functioning watering system using a RaspberryPi and connected sensors. The system used inputs from light level, soil moisture and local weather forecasts to prevent overwatering and underwatering. The system controlled a submursible pump in a water container for use during hosepipe bans.
+As my A-Level computer science project, I created a functioning watering system using a RaspberryPi and connected sensors. The system used inputs from light level, soil moisture and local weather forecasts to prevent overwatering and underwatering. The system controlled a submursible pump in a water container for use during hosepipe bans.
    Skills Developed:
      - Programming - Python, HTML, SQL, API Requests
      - RaspberryPi
