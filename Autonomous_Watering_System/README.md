@@ -26,3 +26,6 @@ Skills Developed:
    - Components and datasheet lookups
    - Raspberry Pi GPIO
 
+Challenges Ovecome
+Getting water into the raised bed from the pump came in the form of a hosepipe along the side of the bed with holes drilled in at regular lengths.
+I designed and 3D printed some clips to hold the hosepipe along the edge, however out of PLA. Just a week in the sun and I learned why this material wasn't optimal. These were then reprinted in white PETG and held up well, as with the 3D printed Stevenson Screen temperature and humidity sensor holder.
