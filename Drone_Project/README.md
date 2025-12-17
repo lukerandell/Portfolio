@@ -7,7 +7,6 @@ Overview:
 - Manufacturing of the drone arm and the drone itself was also possible, though not required.
 - I got as far as designing a 3D model of the drone, however never fully completed manufacturing the entire assembly.
 
-
 Iterations:
 - We were given the 3D assembly of the Drone (HOLLYBRO S500), and given the task to improve components of it to be stronger and lighter.
 - I first started with the basic part, and tweaked some parts of it.
